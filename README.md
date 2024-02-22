@@ -4,4 +4,4 @@ IMDb is the most popular database for movies. Due to more than 6 million movies 
 
 Solution: 
 
-From 2004 to 2010, the film industry was the best period in history. We found that global movie gross income first proceeds from US gross income. In other words, US movie income mainly came from outside of the US market. Thus, we ask two questions: which year and which month should have the highest average US gross income between 2004 and 2010?
+From 2004 to 2010, the film industry was the best period in history. We found that global movie gross income first proceeds from US gross income. In other words, US movie income mainly came from outside the US market. Furthermore, we explore which year and month should have the highest average US gross income between 2004 and 2010.
